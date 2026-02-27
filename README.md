@@ -9,7 +9,6 @@
 <img width="345" height="194" alt="thumbnail_repair" src="https://github.com/user-attachments/assets/8f124e67-b699-4b95-8c98-c48999018cf2" />
 
 
-
 ## 🌟 Overview
 
 **MNC Repair Points** is a clean, lightweight pay-to-repair system for QBCore servers.  
